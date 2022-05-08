@@ -13,6 +13,9 @@ std::string name_Butt;
 std::string null;
 
 using namespace std;
+void A(){
+}
+
 int proverkavar(int variant) {
   if (variant != 1 && variant != 2 && variant != 3) return 1;
   return 0;

@@ -7,7 +7,7 @@ std::string back_Pic;
 std::string title_Text;
 std::string heading;
 std::string m_descrip1;
-std::string m_descrip2;
+std::string m_descrip2;//
 std::string m_descrip3;
 std::string name_Butt;
 std::string null;
